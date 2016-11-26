@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CGPA Calculator</string>
+    <string name="check">Check</string>
+    <string name="cgpa">CGPA</string>
+    <string-array name="sem">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+    <string-array name="bra">
+        <item>Computer Science</item>
+        <item>Electrical and Electronics</item>
+        <item>Electronics and Communication</item>
+        <item>Mechanical</item>
+        <item>Civil</item>
+    </string-array>
+    <string-array name="subj">
+        <item>Graphics</item>
+        <item>Mechanics</item>
+    </string-array>
+</resources>
