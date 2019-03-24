@@ -1,0 +1,2 @@
+# CGPACalculator
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5886091952374871a2b94ce6c568ebcb)](https://app.codacy.com/app/abhinavtk97/CGPACalculator?utm_source=github.com&utm_medium=referral&utm_content=abhinavtk97/CGPACalculator&utm_campaign=Badge_Grade_Dashboard)
